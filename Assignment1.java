@@ -1,3 +1,11 @@
+//Rishikesh Chaudhari
+//E11 23304
+
+/*Classes and object
+Design a class ‘Complex’ with data members for real and imaginary part. Provide default and Parameterized constructors. Write a program to perform arithmetic operations of two complex numbers.*/
+
+package OOPL_codes;
+
 import java.util.Scanner;
 
 class Complex
@@ -54,7 +62,7 @@ class Complex
     }
 }
 
-public class pracAssign1 {
+public class Assignment1 {
     public static void main(String[] args)
     {
         //Taking input
